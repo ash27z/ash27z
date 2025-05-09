@@ -5,9 +5,3 @@
 <div align="center" width="50">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/670904205988462600)](https://discord.com/users/670904205988462600)
-  
-<div align="center" width="50">
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash27z&layout=compact&theme=radical" />
-</p>
